@@ -16,6 +16,8 @@ CareMate AI is a lightweight **RAG-based doctor agent** that answers medical que
 
 Unlike a plain chatbot, CareMate grounds its answers in retrieved medical documents — reducing hallucinations and improving response relevance.
 
+![App Screenshot](screenshot.png)
+
 ---
 
 ## ✨ Features
@@ -154,9 +156,9 @@ transformers
 
 ## 🙋‍♂️ Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Malka Naaz**
+- GitHub: [@Malka23](https://github.com/Malka23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/malka-naaz-870338145)
 
 ---
 
